@@ -1,0 +1,52 @@
+﻿@model IEnumerable<DbLab2.Models.Car>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Cars</h2>
+<p>
+    @Html.ActionLink("Create", "Create", "Car")
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Transmission)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Color)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Transmission)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Color)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Update", "Car")
+                    @Html.ActionLink("Delete", "Delete", "Car")
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
