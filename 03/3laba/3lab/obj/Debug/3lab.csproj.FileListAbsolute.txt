@@ -1,0 +1,24 @@
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\bin\Debug\3lab.dll.config
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\bin\Debug\3lab.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\bin\Debug\3lab.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\obj\Debug\3lab.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\3lab\3lab\obj\Debug\3lab.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\bin\Debug\3lab.dll.config
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\bin\Debug\3lab.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\bin\Debug\3lab.pdb
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\obj\Debug\3lab.dll
+D:\Документы\Университет\6 семестр\Программирование и безопасность баз данных Web-приложений - 3 курс\database-project\3lab\3lab\obj\Debug\3lab.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\bin\Debug\3lab.dll.config
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\bin\Debug\3lab.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\bin\Debug\3lab.pdb
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\obj\Debug\3lab.dll
+E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\3laba\3lab\obj\Debug\3lab.pdb
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\bin\Debug\3lab.dll.config
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\bin\Debug\3lab.dll
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\bin\Debug\3lab.pdb
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\obj\Debug\3lab.csproj.CoreCompileInputs.cache
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\obj\Debug\3lab.dll
+D:\Study\3k2s\GitRep\DB-2019\03\3laba\3lab\obj\Debug\3lab.pdb
