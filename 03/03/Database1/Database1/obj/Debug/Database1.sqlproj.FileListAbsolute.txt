@@ -7,3 +7,12 @@ E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\Database1\Database1\obj\Debug\postdep
 E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\Database1\Database1\obj\Debug\predeploy.sql
 E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\Database1\Database1\obj\Debug\Database1.dll
 E:\РАБОЧЕЕ\3 КУРС 2 СЕМ\БД\Database1\Database1\obj\Debug\Database1.pdb
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\bin\Debug\Database1.dacpac
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\bin\Debug\Database1.dll
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\bin\Debug\Database1.pdb
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\Model.xml
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\refactor.xml
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\postdeploy.sql
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\predeploy.sql
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\Database1.dll
+D:\Study\3k2s\GitRep\DB-2019\03\03\Database1\Database1\obj\Debug\Database1.pdb

@@ -14,7 +14,7 @@ public partial class StoredProcedures
             Connection = new SqlConnection("Context connection = true")
         };
         command.Connection.Open();
-        string sql_string = $"select ID_QUESTION,QUESTION,[42],[1051],[1052],[1053] from QUESTION PIVOT(count(QUESTION.ID_TEST) for QUESTION.ID_TEST in([42],[1051],[1052],[1053]))as test_pivott";
+        string sql_string = $"select [Username],[1],[2],[3] from [tblUser] PIVOT(count([tblUser].[UserID]) for [tblUser].[UserID] in([1],[2],[3])) as test_pivot";
         command.CommandText = sql_string.ToString();
         SqlContext.Pipe.ExecuteAndSend(command);
         command.Connection.Close();

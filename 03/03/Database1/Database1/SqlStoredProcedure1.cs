@@ -9,7 +9,7 @@ using Microsoft.SqlServer.Server;
 partial  class StoredProcedures
 {
     [SqlProcedure]
-    public static int GetQuestion(int a, int b)
+    public static int GetKkal(int a)
     {
         int rows;
         SqlConnection conn = new SqlConnection("Context Connection=true");
